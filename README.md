@@ -23,8 +23,8 @@ cd diabetes-predictor
 pip install -r requirements.txt
 ```
 
-#Usage
-run
+# Usage
+Run
 ```
 python predictor.py
 ```
