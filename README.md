@@ -12,7 +12,7 @@ Uses data from patient records to predict a positive or negative test result of 
 * DiabetesPedigreeFunction - A function that determines type 2 diabetes risk based on family history
 * Age - Age in years
 
-#Installation
+# Installation
 1. Clone the repository
 ```
 git clone https://github.com/brichoe/diabetes-predictor.git
